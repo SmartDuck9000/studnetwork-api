@@ -1,0 +1,1 @@
+secure_fields = ["vk_id", "vk_token", "vector", "last_update"]
