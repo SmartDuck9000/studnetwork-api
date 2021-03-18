@@ -1,3 +1,5 @@
 # Studnetwork
 
-An app for finding friends and lovers
+An app for finding friends and lovers in BMSTU
+
+Thanks [Kurush](gitlab.com/Kurush) for ml+analysis
