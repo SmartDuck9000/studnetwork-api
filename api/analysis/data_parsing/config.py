@@ -1,0 +1,1 @@
+text_parse_size = 10000
